@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5gcaWY6j+Xq0pgXJ4s5wOZwQ5ijLH4CZTphOtcCh8U0ivu/E1CFeIzqvLm4mydmkd2bIhpbZWMPQtzN14C9yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Tracking\\Tracking.API\\Tracking.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELLS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DELLS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DELLS\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELLS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELLS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\DELLS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
