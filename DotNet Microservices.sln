@@ -23,42 +23,42 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shipping", "Shipping", "{00
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tracking", "Tracking", "{AC27746E-4575-420A-BF7A-99842FFF3859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping.API", "src\Services\Business Services\Shipping\Shipping.API\Shipping.API.csproj", "{9AD4F1CB-6656-42F2-95D8-87E6788C3684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipping.API", "src\Services\Business Services\Shipping\Shipping.API\Shipping.API.csproj", "{9AD4F1CB-6656-42F2-95D8-87E6788C3684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking.API", "src\Services\Business Services\Tracking\Tracking.API\Tracking.API.csproj", "{365F6A05-AF3C-4942-AA46-8EAAF042D25A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracking.API", "src\Services\Business Services\Tracking\Tracking.API\Tracking.API.csproj", "{365F6A05-AF3C-4942-AA46-8EAAF042D25A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking.Domain", "src\Services\Business Services\Booking\Booking.Domain\Booking.Domain.csproj", "{67E93C37-A32C-4D7A-B31A-4915BD2AE734}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.Domain", "src\Services\Business Services\Booking\Booking.Domain\Booking.Domain.csproj", "{67E93C37-A32C-4D7A-B31A-4915BD2AE734}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booking.Infrastructure", "src\Services\Business Services\Booking\Booking.Infrastructure\Booking.Infrastructure.csproj", "{47810AFA-795F-40CC-8F03-4E5F708B2D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booking.Infrastructure", "src\Services\Business Services\Booking\Booking.Infrastructure\Booking.Infrastructure.csproj", "{47810AFA-795F-40CC-8F03-4E5F708B2D7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment.Infrastructure", "src\Services\Business Services\Payment\Payment.Infrastructure\Payment.Infrastructure.csproj", "{E341B218-B71D-4964-A446-67A9068A2E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payment.Infrastructure", "src\Services\Business Services\Payment\Payment.Infrastructure\Payment.Infrastructure.csproj", "{E341B218-B71D-4964-A446-67A9068A2E12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment.Domain", "src\Services\Business Services\Payment\Payment.Domain\Payment.Domain.csproj", "{19A8CF98-E576-4DA6-A261-1EB015F4C962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payment.Domain", "src\Services\Business Services\Payment\Payment.Domain\Payment.Domain.csproj", "{19A8CF98-E576-4DA6-A261-1EB015F4C962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping.Infrastructure", "src\Services\Business Services\Shipping\Shipping.Infrastructure\Shipping.Infrastructure.csproj", "{7F3B7BA6-305B-468E-A6DE-D6463E3801E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipping.Infrastructure", "src\Services\Business Services\Shipping\Shipping.Infrastructure\Shipping.Infrastructure.csproj", "{7F3B7BA6-305B-468E-A6DE-D6463E3801E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping.Domain", "src\Services\Business Services\Shipping\Shipping.Domain\Shipping.Domain.csproj", "{EED47977-1EEF-4BCA-A21F-FA4231933E49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipping.Domain", "src\Services\Business Services\Shipping\Shipping.Domain\Shipping.Domain.csproj", "{EED47977-1EEF-4BCA-A21F-FA4231933E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking.Infrastructure", "src\Services\Business Services\Tracking\Tracking.Infrastructure\Tracking.Infrastructure.csproj", "{136B0CFA-A2B9-4D02-A0CF-CE1E15409B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracking.Infrastructure", "src\Services\Business Services\Tracking\Tracking.Infrastructure\Tracking.Infrastructure.csproj", "{136B0CFA-A2B9-4D02-A0CF-CE1E15409B01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking.Domain", "src\Services\Business Services\Tracking\Tracking.Domain\Tracking.Domain.csproj", "{35A8D0C2-F8AA-476A-887F-3CAEC74DB4CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tracking.Domain", "src\Services\Business Services\Tracking\Tracking.Domain\Tracking.Domain.csproj", "{35A8D0C2-F8AA-476A-887F-3CAEC74DB4CC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways", "{767ECB1B-E801-4B10-B0B3-061141C543A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBusService", "EventBusService", "{7033EDA7-719A-4948-BA58-3537706B5ABC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.API", "src\Services\Technical Services\Logging.API\Logging.API.csproj", "{CC381407-81A4-45B4-A6BD-8713BEC375B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logging.API", "src\Services\Technical Services\Logging.API\Logging.API.csproj", "{CC381407-81A4-45B4-A6BD-8713BEC375B7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBus", "EventBus", "{A34E34D7-8B9A-4613-BB0C-667D24E0F093}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstractions", "Abstractions", "{456E7FAB-9B9B-4660-9171-FDB47CA439DF}"
 	ProjectSection(SolutionItems) = preProject
-		IEventBus.cs = IEventBus.cs
+		src\EventBusService\EventBus\Abstractions\IEventBus.cs = src\EventBusService\EventBus\Abstractions\IEventBus.cs
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{BBF8B58A-11D0-48A0-A61E-0AB43ABF3251}"
 	ProjectSection(SolutionItems) = preProject
-		IntegrationEvent.cs = IntegrationEvent.cs
+		src\EventBusService\EventBus\Events\IntegrationEvent.cs = src\EventBusService\EventBus\Events\IntegrationEvent.cs
 	EndProjectSection
 EndProject
 Global
