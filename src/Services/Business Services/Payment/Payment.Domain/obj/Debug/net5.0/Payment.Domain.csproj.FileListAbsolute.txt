@@ -1,0 +1,11 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\bin\Debug\net5.0\ref\Payment.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\bin\Debug\net5.0\Payment.Domain.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\obj\Debug\net5.0\ref\Payment.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.Domain\obj\Debug\net5.0\Payment.Domain.pdb

@@ -1,0 +1,11 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\bin\Debug\net5.0\Shipping.Domain.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\bin\Debug\net5.0\Shipping.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\bin\Debug\net5.0\ref\Shipping.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\bin\Debug\net5.0\Shipping.Domain.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\obj\Debug\net5.0\Shipping.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\obj\Debug\net5.0\Shipping.Domain.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\obj\Debug\net5.0\Shipping.Domain.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\obj\Debug\net5.0\Shipping.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\obj\Debug\net5.0\Shipping.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\obj\Debug\net5.0\ref\Shipping.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Shipping\Shipping.Domain\obj\Debug\net5.0\Shipping.Domain.pdb

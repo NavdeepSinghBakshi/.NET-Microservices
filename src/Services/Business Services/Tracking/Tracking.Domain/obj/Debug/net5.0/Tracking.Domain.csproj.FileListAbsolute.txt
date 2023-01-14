@@ -1,0 +1,11 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\bin\Debug\net5.0\Tracking.Domain.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\bin\Debug\net5.0\Tracking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\bin\Debug\net5.0\ref\Tracking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\bin\Debug\net5.0\Tracking.Domain.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\obj\Debug\net5.0\Tracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\obj\Debug\net5.0\Tracking.Domain.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\obj\Debug\net5.0\Tracking.Domain.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\obj\Debug\net5.0\Tracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\obj\Debug\net5.0\Tracking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\obj\Debug\net5.0\ref\Tracking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Domain\obj\Debug\net5.0\Tracking.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\bin\Debug\net5.0\Tracking.Infrastructure.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\bin\Debug\net5.0\Tracking.Infrastructure.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\bin\Debug\net5.0\ref\Tracking.Infrastructure.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\bin\Debug\net5.0\Tracking.Infrastructure.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\Tracking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\Tracking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\Tracking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\Tracking.Infrastructure.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\Tracking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\Tracking.Infrastructure.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\ref\Tracking.Infrastructure.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Infrastructure\obj\Debug\net5.0\Tracking.Infrastructure.pdb

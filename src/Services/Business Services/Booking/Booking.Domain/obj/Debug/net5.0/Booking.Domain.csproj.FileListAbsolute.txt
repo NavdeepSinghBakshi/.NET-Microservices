@@ -1,0 +1,11 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\bin\Debug\net5.0\Booking.Domain.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\bin\Debug\net5.0\Booking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\bin\Debug\net5.0\ref\Booking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\bin\Debug\net5.0\Booking.Domain.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\obj\Debug\net5.0\Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\obj\Debug\net5.0\Booking.Domain.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\obj\Debug\net5.0\Booking.Domain.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\obj\Debug\net5.0\Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\obj\Debug\net5.0\Booking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\obj\Debug\net5.0\ref\Booking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Domain\obj\Debug\net5.0\Booking.Domain.pdb
