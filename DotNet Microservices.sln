@@ -47,6 +47,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateways", "ApiGateways"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBusService", "EventBusService", "{7033EDA7-719A-4948-BA58-3537706B5ABC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.API", "src\Services\Technical Services\Logging.API\Logging.API.csproj", "{CC381407-81A4-45B4-A6BD-8713BEC375B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{35A8D0C2-F8AA-476A-887F-3CAEC74DB4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35A8D0C2-F8AA-476A-887F-3CAEC74DB4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35A8D0C2-F8AA-476A-887F-3CAEC74DB4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC381407-81A4-45B4-A6BD-8713BEC375B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC381407-81A4-45B4-A6BD-8713BEC375B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC381407-81A4-45B4-A6BD-8713BEC375B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC381407-81A4-45B4-A6BD-8713BEC375B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +133,7 @@ Global
 		{35A8D0C2-F8AA-476A-887F-3CAEC74DB4CC} = {AC27746E-4575-420A-BF7A-99842FFF3859}
 		{767ECB1B-E801-4B10-B0B3-061141C543A9} = {B6578BFF-2A03-4B17-85EB-5480075FB7D4}
 		{7033EDA7-719A-4948-BA58-3537706B5ABC} = {B6578BFF-2A03-4B17-85EB-5480075FB7D4}
+		{CC381407-81A4-45B4-A6BD-8713BEC375B7} = {AC45511E-ECE2-4B0F-B858-F523BF11B557}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3CEC9C62-FFC4-489B-BA77-4DABC8090F72}
