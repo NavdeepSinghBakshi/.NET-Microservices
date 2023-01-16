@@ -11,7 +11,6 @@ C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business 
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.API\obj\Debug\net5.0\Tracking.API.csproj.AssemblyReference.cache
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.API\obj\Debug\net5.0\Tracking.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.API\obj\Debug\net5.0\Tracking.API.AssemblyInfoInputs.cache
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.API\obj\Debug\net5.0\Tracking.API.AssemblyInfo.cs

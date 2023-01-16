@@ -1,0 +1,11 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\bin\Debug\net5.0\EventBus.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\bin\Debug\net5.0\EventBus.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\bin\Debug\net5.0\ref\EventBus.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\bin\Debug\net5.0\EventBus.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\obj\Debug\net5.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\obj\Debug\net5.0\EventBus.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\obj\Debug\net5.0\EventBus.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\obj\Debug\net5.0\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\obj\Debug\net5.0\EventBus.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\obj\Debug\net5.0\ref\EventBus.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBus\obj\Debug\net5.0\EventBus.pdb

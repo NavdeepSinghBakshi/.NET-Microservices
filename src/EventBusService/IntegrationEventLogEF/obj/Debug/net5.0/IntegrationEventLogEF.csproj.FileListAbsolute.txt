@@ -1,0 +1,11 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\bin\Debug\net5.0\ref\IntegrationEventLogEF.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\ref\IntegrationEventLogEF.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.pdb

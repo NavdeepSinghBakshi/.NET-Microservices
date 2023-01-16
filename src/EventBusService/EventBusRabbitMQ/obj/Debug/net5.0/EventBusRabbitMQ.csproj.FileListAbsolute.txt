@@ -1,0 +1,15 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\bin\Debug\net5.0\ref\EventBusRabbitMQ.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\bin\Debug\net5.0\EventBus.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\bin\Debug\net5.0\EventBus.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.CopyComplete
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\ref\EventBusRabbitMQ.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.pdb
