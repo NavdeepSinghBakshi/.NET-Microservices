@@ -26,3 +26,4 @@ C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business 
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.API\obj\Debug\net5.0\ref\Payment.API.dll
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.API\obj\Debug\net5.0\Payment.API.pdb
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.API\obj\Debug\net5.0\Payment.API.genruntimeconfig.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Payment\Payment.API\obj\Debug\net5.0\Payment.API.csproj.AssemblyReference.cache

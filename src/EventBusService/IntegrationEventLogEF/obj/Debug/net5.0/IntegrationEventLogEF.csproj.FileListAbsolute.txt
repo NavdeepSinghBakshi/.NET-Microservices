@@ -9,3 +9,7 @@ C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\In
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.dll
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\ref\IntegrationEventLogEF.dll
 C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\bin\Debug\net5.0\EventBus.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\bin\Debug\net5.0\EventBus.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csproj.AssemblyReference.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\EventBusService\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csproj.CopyComplete
