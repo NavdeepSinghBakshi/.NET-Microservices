@@ -1,0 +1,15 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\bin\Debug\net5.0\Booking.Persistence.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\bin\Debug\net5.0\Booking.Persistence.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\bin\Debug\net5.0\ref\Booking.Persistence.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\bin\Debug\net5.0\Booking.Persistence.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\bin\Debug\net5.0\Booking.Domain.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\bin\Debug\net5.0\Booking.Domain.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.csproj.AssemblyReference.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.csproj.CopyComplete
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\ref\Booking.Persistence.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Booking\Booking.Persistence\obj\Debug\net5.0\Booking.Persistence.pdb

@@ -4,14 +4,90 @@
     "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\Booking.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\Booking.API.csproj": {
+    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\Booking.API.csproj",
-        "projectName": "Booking.API",
-        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\Booking.API.csproj",
+        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
+        "projectName": "EventBusRabbitMQ",
+        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
         "packagesPath": "C:\\Users\\DELLS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\obj\\",
+        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBusRabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj",
+        "projectName": "EventBus",
+        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj",
+        "packagesPath": "C:\\Users\\DELLS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +116,182 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\IntegrationEventLogEF\\IntegrationEventLogEF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\IntegrationEventLogEF\\IntegrationEventLogEF.csproj",
+        "projectName": "IntegrationEventLogEF",
+        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\IntegrationEventLogEF\\IntegrationEventLogEF.csproj",
+        "packagesPath": "C:\\Users\\DELLS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\IntegrationEventLogEF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\Booking.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\Booking.API.csproj",
+        "projectName": "Booking.API",
+        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\Booking.API.csproj",
+        "packagesPath": "C:\\Users\\DELLS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj"
+              },
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj"
+              },
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Application\\Booking.Application.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Application\\Booking.Application.csproj"
+              },
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj"
+              },
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\Booking.Persistence.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\Booking.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -59,6 +311,197 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Application\\Booking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Application\\Booking.Application.csproj",
+        "projectName": "Booking.Application",
+        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Application\\Booking.Application.csproj",
+        "packagesPath": "C:\\Users\\DELLS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\EventBus\\EventBus.csproj"
+              },
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\IntegrationEventLogEF\\IntegrationEventLogEF.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\EventBusService\\IntegrationEventLogEF\\IntegrationEventLogEF.csproj"
+              },
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj"
+              },
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\Booking.Persistence.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\Booking.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj",
+        "projectName": "Booking.Domain",
+        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj",
+        "packagesPath": "C:\\Users\\DELLS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\Booking.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\Booking.Persistence.csproj",
+        "projectName": "Booking.Persistence",
+        "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\Booking.Persistence.csproj",
+        "packagesPath": "C:\\Users\\DELLS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELLS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\DELLS\\Desktop\\Microservices\\DotNet Microservices\\src\\Services\\Business Services\\Booking\\Booking.Domain\\Booking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

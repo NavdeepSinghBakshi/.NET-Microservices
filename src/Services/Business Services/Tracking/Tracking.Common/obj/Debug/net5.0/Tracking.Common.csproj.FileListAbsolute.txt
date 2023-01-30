@@ -1,0 +1,12 @@
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\bin\Debug\net5.0\Tracking.Common.deps.json
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\bin\Debug\net5.0\Tracking.Common.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\bin\Debug\net5.0\ref\Tracking.Common.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\bin\Debug\net5.0\Tracking.Common.pdb
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\Tracking.Common.csproj.AssemblyReference.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\Tracking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\Tracking.Common.AssemblyInfoInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\Tracking.Common.AssemblyInfo.cs
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\Tracking.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\Tracking.Common.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\ref\Tracking.Common.dll
+C:\Users\DELLS\Desktop\Microservices\DotNet Microservices\src\Services\Business Services\Tracking\Tracking.Common\obj\Debug\net5.0\Tracking.Common.pdb

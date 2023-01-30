@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\EventBusService\EventBusRabbitMQ\EventBusRabbitMQ.csproj" />
+    <ProjectReference Include="..\..\..\..\EventBusService\EventBus\EventBus.csproj" />
+    <ProjectReference Include="..\Tracking.Common\Tracking.Common.csproj" />
+    <ProjectReference Include="..\Tracking.Domain\Tracking.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

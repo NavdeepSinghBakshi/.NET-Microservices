@@ -52,7 +52,7 @@ namespace EventBusRabbitMQ
             if (_disposed) return;
 
             _disposed = true;
-            _connection.Dispose();
+            _connection?.Dispose();
         }
 
         public bool TryConnect()
